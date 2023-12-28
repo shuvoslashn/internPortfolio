@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Anybody:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        @apply font-any scroll-smooth;
+    }
+    body {
+        @apply bg-[#1F1F1F] text-[14px] md:text-[18px] text-zinc-400;
+    }
+    .animation-text {
+        background: linear-gradient(
+            to right,
+            #00fae5 20%,
+            #00affa 30%,
+            #0190cd 70%,
+            #0ea89b 80%
+        );
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-fill-color: transparent;
+        background-size: 500% auto;
+        animation: textShine 5s ease-in-out infinite alternate;
+    }
+    .animated-bg {
+        animation: textShine 5s ease-in-out infinite alternate;
+    }
+    @keyframes textShine {
+        0% {
+            background-position: 0% 50%;
+        }
+        100% {
+            background-position: 100% 50%;
+        }
+    }
+}
