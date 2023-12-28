@@ -13,7 +13,7 @@ const Contact = () => {
                         💌 dev.shuvosarker@gmail.com
                     </a>
                 </h3>
-                <h3 className='text-xl lg:text-4xl pb-3 tracking-widest'>
+                <h3 className='text-xl lg:text-4xl pb-3 tracking-widest -mt-8 lg:-mt-4'>
                     <a href='tel:+8801729517615'>📞 +880 1729 517 615</a>
                 </h3>
             </div>

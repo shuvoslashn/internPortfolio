@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCard";
 
 const Portfolio = () => {
     return (
-        <section className='py-24 bg-zinc-900' id='portfolio'>
+        <section className='py-16 lg:py-24 bg-zinc-900' id='portfolio'>
             <div className='container'>
                 <SectionTitle
-                    classes={"text-center pb-16"}
+                    classes={"text-center pb-6 lg:pb-16"}
                     mainTitle={"Portfolio"}
                     subTitle={"Know about my skillset and projects"}
                 />

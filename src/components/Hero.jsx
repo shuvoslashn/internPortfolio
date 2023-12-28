@@ -5,7 +5,7 @@ import Scroll from "./../assets/img/scroll-down.webp";
 const Hero = () => {
     return (
         <section className='relative' id='home'>
-            <div className='container w-full min-h-screen -mt-[90px] flex flex-col gap-4 lg:gap-24 lg:flex-row justify-center lg:justify-between items-center'>
+            <div className='container py-24 w-full min-h-screen -mt-[90px] flex flex-col gap-4 lg:gap-24 lg:flex-row justify-center lg:justify-between items-center'>
                 {/* left area */}
                 <div className='pt-12 max-w-2xl text-center lg:text-left'>
                     <h3 className='text-xl lg:text-4xl pb-2'>
@@ -23,7 +23,7 @@ const Hero = () => {
                         dynamic and collaborative environment that nurtures
                         creativity and innovation.
                     </p>
-                    <div className='flex gap-4'>
+                    <div className=' my-8 flex gap-4 justify-center lg:justify-start'>
                         <a
                             href='#portfolio'
                             className=' h-12 group text-xl mt-4 border-b inline-block duration-300 text-white border-zinc-600 hover:border-white'
@@ -33,7 +33,7 @@ const Hero = () => {
                         </a>
                         <a
                             target='_blank'
-                            href='https://drive.google.com/file/d/1XjsytL43TbMiQ6_TwLHWfHhtfg1O73eu/view?usp=sharing'
+                            href='https://drive.google.com/file/d/1GE2W0WKhJyTLBVgQNy-QeB3hCG_J3zOq/view?usp=sharing'
                             className=' h-12 group text-xl mt-4 border-b inline-block duration-300 text-white border-zinc-600 hover:border-white'
                         >
                             Download CV
