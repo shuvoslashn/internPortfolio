@@ -1,0 +1,285 @@
+1. Apartment Title: Modern 2-Bedroom Apartment with Sea View
+   Description: This contemporary apartment offers stunning views of the Mediterranean Sea and is located in a prime area of Jijel. Featuring modern amenities and stylish design, it provides a comfortable and luxurious living experience.
+   Price: $180,000
+   Per sqft Price: $150
+   Bedrooms: 2
+   Bathrooms: 2
+   Area: 120 m²
+   Lot Size: N/A
+   Year Built: 2020
+   Location: Coastal Avenue, Jijel, Algeria
+
+2. Apartment Title: Spacious 3-Bedroom Apartment in Central Jijel
+   Description: A spacious and well-maintained apartment in the heart of Jijel, offering convenience and accessibility to local amenities. Ideal for families looking for comfort and convenience.
+   Price: $220,000
+   Per sqft Price: $130
+   Bedrooms: 3
+   Bathrooms: 2.5
+   Area: 160 m²
+   Lot Size: N/A
+   Year Built: 2015
+   Location: City Center, Jijel, Algeria
+
+3. Apartment Title: Elegant 4-Bedroom Penthouse with Panoramic Views
+   Description: An elegant penthouse offering panoramic views of the city and the sea. This 4-bedroom residence boasts luxury living with high-end finishes and spacious interiors.
+   Price: $350,000
+   Per sqft Price: $180
+   Bedrooms: 4
+   Bathrooms: 3.5
+   Area: 200 m²
+   Lot Size: N/A
+   Year Built: 2017
+   Location: Hilltop Avenue, Jijel, Algeria
+
+4. Apartment Title: Cozy 1-Bedroom Studio near Beach
+   Description: A cozy and compact studio apartment located just a short walk from the beach. Perfect for those who enjoy the seaside lifestyle and a low-maintenance living space.
+   Price: $90,000
+   Per sqft Price: $120
+   Bedrooms: 1
+   Bathrooms: 1
+   Area: 75 m²
+   Lot Size: N/A
+   Year Built: 2019
+   Location: Beachside Lane, Jijel, Algeria
+
+5. Apartment Title: Contemporary Loft-Style Apartment in Artistic Quarter
+   Description: Embrace the artistic vibe of Jijel with this modern loft-style apartment located in a vibrant and creative neighborhood. Open spaces and artistic touches define this unique residence.
+   Price: $200,000
+   Per sqft Price: $160
+   Bedrooms: 2
+   Bathrooms: 2
+   Area: 125 m²
+   Lot Size: N/A
+   Year Built: 2016
+   Location: Artistic Quarter, Jijel, Algeria
+
+6. Apartment Title: Charming 2-Bedroom Cottage with Garden
+   Description: Experience the charm of this 2-bedroom cottage featuring a private garden. Perfect for those who appreciate a blend of indoor and outdoor living.
+   Price: $150,000
+   Per sqft Price: $140
+   Bedrooms: 2
+   Bathrooms: 1.5
+   Area: 110 m²
+   Lot Size: 150 m²
+   Year Built: 2014
+   Location: Green Lane, Jijel, Algeria
+
+7. Apartment Title: Exclusive 3-Bedroom Duplex with Terrace
+   Description: Indulge in luxury with this exclusive 3-bedroom duplex featuring a private terrace. High-end finishes and contemporary design define this upscale residence.
+   Price: $280,000
+   Per sqft Price: $170
+   Bedrooms: 3
+   Bathrooms: 3
+   Area: 165 m²
+   Lot Size: N/A
+   Year Built: 2018
+   Location: Exclusive Street, Jijel, Algeria
+
+8. Apartment Title: Affordable 1-Bedroom Apartment in Quiet Neighborhood
+   Description: An affordable 1-bedroom apartment in a peaceful neighborhood, providing a quiet retreat while remaining close to essential amenities.
+   Price: $75,000
+   Per sqft Price: $100
+   Bedrooms: 1
+   Bathrooms: 1
+   Area: 75 m²
+   Lot Size: N/A
+   Year Built: 2015
+   Location: Quiet Lane, Jijel, Algeria
+
+9. Apartment Title: Modern 2-Bedroom Apartment with City Views
+   Description: Enjoy city views from this modern 2-bedroom apartment, thoughtfully designed for contemporary living. Conveniently located near shopping and entertainment.
+   Price: $160,000
+   Per sqft Price: $130
+   Bedrooms: 2
+   Bathrooms: 2
+   Area: 123 m²
+   Lot Size: N/A
+   Year Built: 2017
+   Location: City View Avenue, Jijel, Algeria
+
+10. Apartment Title: Seaside Luxury 3-Bedroom Apartment with Balcony
+    Description: Luxurious 3-bedroom apartment offering breathtaking views of the sea and a spacious balcony for outdoor relaxation. Experience the ultimate seaside living.
+    Price: $300,000
+    Per sqft Price: $175
+    Bedrooms: 3
+    Bathrooms: 2.5
+    Area: 172 m²
+    Lot Size: N/A
+    Year Built: 2019
+    Location: Seaside Boulevard, Jijel, Algeria
+
+11. Apartment Title: Stylish 1-Bedroom Loft with Modern Amenities
+    Description: Step into style with this 1-bedroom loft featuring modern amenities and chic design. Ideal for individuals seeking a trendy and comfortable living space.
+    Price: $120,000
+    Per sqft Price: $140
+    Bedrooms: 1
+    Bathrooms: 1.5
+    Area: 85 m²
+    Lot Size: N/A
+    Year Built: 2016
+    Location: Trendy Lane, Jijel, Algeria
+
+12. Apartment Title: Family-Friendly 4-Bedroom Apartment in Suburbia
+    Description: A family-friendly 4-bedroom apartment in a suburban setting, offering a spacious and welcoming environment for a growing family.
+    Price: $250,000
+    Per sqft Price: $120
+    Bedrooms: 4
+    Bathrooms: 2.5
+    Area: 208 m²
+    Lot Size: N/A
+    Year Built: 2013
+    Location: Suburban Street, Jijel, Algeria
+
+13. Apartment Title: Cozy 2-Bedroom Duplex with Private Entrance
+    Description: Experience the privacy of a duplex with a private entrance. This cozy 2-bedroom residence is designed for comfort and convenience.
+    Price: $140,000
+    Per sqft Price: $110
+    Bedrooms: 2
+    Bathrooms: 2
+    Area: 127 m²
+    Lot Size: N/A
+    Year Built: 2015
+    Location: Private Lane, Jijel, Algeria
+
+14. Apartment Title: Urban Living 3-Bedroom Apartment with Rooftop Access
+    Description: Embrace urban living with this 3-bedroom apartment featuring rooftop access. Enjoy cityscape views and modern amenities in the heart of Jijel.
+    Price: $270,000
+    Per sqft Price: $160
+    Bedrooms: 3
+    Bathrooms: 2.5
+    Area: 168 m²
+    Lot Size: N/A
+    Year Built: 2017
+    Location: Urban Avenue, Jijel, Algeria
+
+15. Apartment Title: Affordable 1-Bedroom Studio with Park Views
+    Description: An affordable and compact 1-bedroom studio with views of the nearby park. Perfect for singles or couples seeking a budget-friendly living space.
+    Price: $80,000
+    Per sqft Price: $100
+    Bedrooms: 1
+    Bathrooms: 1
+    Area: 70 m²
+    Lot Size: N/A
+    Year Built: 2014
+    Location: Parkside Lane, Jijel, Algeria
+
+16. Apartment Title: Modern 2-Bedroom Apartment with Garden Access
+    Description: Enjoy the luxury of garden access with this modern 2-bedroom apartment. Perfect for nature lovers who also appreciate contemporary living.
+    Price: $190,000
+    Per sqft Price: $145
+    Bedrooms: 2
+    Bathrooms: 2
+    Area: 130 m²
+    Lot Size: N/A
+    Year Built: 2018
+    Location: Garden View Street, Jijel, Algeria
+
+17. Apartment Title: Executive 3-Bedroom Apartment with Office Space
+    Description: An executive-style 3-bedroom apartment with a dedicated office space. Ideal for professionals seeking a comfortable home office setup.
+    Price: $280,000
+    Per sqft Price: $170
+    Bedrooms: 3
+    Bathrooms: 2.5
+    Area: 175 m²
+    Lot Size: N/A
+    Year Built: 2016
+    Location: Executive Lane, Jijel, Algeria
+
+18. Apartment Title: Quaint 1-Bedroom Cottage with Traditional Charm
+    Description: Step into the past with this quaint 1-bedroom cottage featuring traditional architecture and charming details. Perfect for those who appreciate history.
+    Price: $110,000
+    Per sqft Price: $120
+    Bedrooms: 1
+    Bathrooms: 1
+    Area: 90 m²
+    Lot Size: N/A
+    Year Built: 2015
+    Location: Historic Lane, Jijel, Algeria
+
+19. Apartment Title: Sunny 2-Bedroom Apartment with Balcony
+    Description: Enjoy ample sunlight in this sunny 2-bedroom apartment with a private balcony. A bright and cheerful living space in a desirable location.
+    Price: $170,000
+    Per sqft Price: $135
+    Bedrooms: 2
+    Bathrooms: 2
+    Area: 125 m²
+    Lot Size: N/A
+    Year Built: 2019
+    Location: Sunny Boulevard, Jijel, Algeria
+
+20. Apartment Title: Contemporary 3-Bedroom Townhouse with Garage
+    Description: A contemporary 3-bedroom townhouse with a private garage. Enjoy modern living with the convenience of a dedicated parking space.
+    Price: $240,000
+    Per sqft Price: $155
+    Bedrooms: 3
+    Bathrooms: 3
+    Area: 155 m²
+    Lot Size: N/A
+    Year Built: 2017
+    Location: Townhouse Lane, Jijel, Algeria
+
+21. Apartment Title: Stylish 1-Bedroom Loft with Modern Amenities
+    Description: Step into style with this 1-bedroom loft featuring modern amenities and chic design. Ideal for individuals seeking a trendy and comfortable living space.
+    Price: $120,000
+    Per sqft Price: $140
+    Bedrooms: 1
+    Bathrooms: 1.5
+    Area: 85 m²
+    Lot Size: N/A
+    Year Built: 2016
+    Location: Trendy Lane, Jijel, Algeria
+
+22. Apartment Title: Family-Friendly 4-Bedroom Apartment in Suburbia
+    Description: A family-friendly 4-bedroom apartment in a suburban setting, offering a spacious and welcoming environment for a growing family.
+    Price: $250,000
+    Per sqft Price: $120
+    Bedrooms: 4
+    Bathrooms: 2.5
+    Area: 208 m²
+    Lot Size: N/A
+    Year Built: 2013
+    Location: Suburban Street, Jijel, Algeria
+
+23. Apartment Title: Cozy 2-Bedroom Duplex with Private Entrance
+    Description: Experience the privacy of a duplex with a private entrance. This cozy 2-bedroom residence is designed for comfort and convenience.
+    Price: $140,000
+    Per sqft Price: $110
+    Bedrooms: 2
+    Bathrooms: 2
+    Area: 127 m²
+    Lot Size: N/A
+    Year Built: 2015
+    Location: Private Lane, Jijel, Algeria
+
+24. Apartment Title: Urban Living 3-Bedroom Apartment with Rooftop Access
+    Description: Embrace urban living with this 3-bedroom apartment featuring rooftop access. Enjoy cityscape views and modern amenities in the heart of Jijel.
+    Price: $270,000
+    Per sqft Price: $160
+    Bedrooms: 3
+    Bathrooms: 2.5
+    Area: 168 m²
+    Lot Size: N/A
+    Year Built: 2017
+    Location: Urban Avenue, Jijel, Algeria
+
+25. Apartment Title: Affordable 1-Bedroom Studio with Park Views
+    Description: An affordable and compact 1-bedroom studio with views of the nearby park. Perfect for singles or couples seeking a budget-friendly living space.
+    Price: $80,000
+    Per sqft Price: $100
+    Bedrooms: 1
+    Bathrooms: 1
+    Area: 70 m²
+    Lot Size: N/A
+    Year Built: 2014
+    Location: Parkside Lane, Jijel, Algeria
+
+26. Apartment Title: Modern 2-Bedroom Apartment with Garden Access
+    Description: Enjoy the luxury of garden access with this modern 2-bedroom apartment. Perfect for nature lovers who also appreciate contemporary living.
+    Price: $190,000
+    Per sqft Price: $145
+    Bedrooms: 2
+    Bathrooms: 2
+    Area: 130 m²
+    Lot Size: N/A
+    Year Built: 2018
+    Location: Garden View Street, Jijel, Algeria

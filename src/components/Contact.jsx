@@ -4,12 +4,12 @@ const Contact = () => {
     return (
         <section className='py-24' id='contact'>
             <div className='container flex flex-col text-center gap-8'>
-                <h1 className='text-5xl md:text-6xl xl:text-7xl font-black animation-text'>
+                <h1 className='text-3xl md:text-6xl xl:text-7xl font-black animation-text'>
                     Feel Free to Contact me
                 </h1>
 
                 <h3 className='text-xl lg:text-4xl pb-3 tracking-widest'>
-                    <a href='mailto:dev.shuvosarker@gmail.com'>
+                    <a href='mailto:dev.shuvosarker@gmail.com break-words'>
                         💌 dev.shuvosarker@gmail.com
                     </a>
                 </h3>

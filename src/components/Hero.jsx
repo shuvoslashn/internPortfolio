@@ -23,7 +23,7 @@ const Hero = () => {
                         dynamic and collaborative environment that nurtures
                         creativity and innovation.
                     </p>
-                    <div className=' my-8 flex gap-4 justify-center lg:justify-start'>
+                    <div className=' my-8 flex flex-col sm:flex-row gap-4 justify-center lg:justify-start'>
                         <a
                             href='#portfolio'
                             className=' h-12 group text-xl mt-4 border-b inline-block duration-300 text-white border-zinc-600 hover:border-white'
@@ -33,6 +33,7 @@ const Hero = () => {
                         </a>
                         <a
                             target='_blank'
+                            rel='noreferrer'
                             href='https://drive.google.com/file/d/1GE2W0WKhJyTLBVgQNy-QeB3hCG_J3zOq/view?usp=sharing'
                             className=' h-12 group text-xl mt-4 border-b inline-block duration-300 text-white border-zinc-600 hover:border-white'
                         >
