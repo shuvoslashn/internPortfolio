@@ -9,7 +9,7 @@ const Hero = () => {
                 {/* left area */}
                 <div className='pt-12 max-w-2xl text-center lg:text-left'>
                     <h3 className='text-xl lg:text-4xl pb-2'>
-                        Hi, I'm <b className='text-white'>Shuvo Sarker</b> 😎
+                        Hi, I am <b className='text-white'>Shuvo Sarker</b> 😎
                     </h3>
                     <h1 className='text-5xl md:text-6xl xl:text-8xl font-black animation-text'>
                         Front End
@@ -34,7 +34,7 @@ const Hero = () => {
                         <a
                             target='_blank'
                             rel='noreferrer'
-                            href='https://drive.google.com/file/d/1GE2W0WKhJyTLBVgQNy-QeB3hCG_J3zOq/view?usp=sharing'
+                            href='https://docs.google.com/document/d/1hIkrDlT4123Eg1DE1orxxfO-4zdGEoC35xG1julDsMI/edit?usp=sharing'
                             className=' h-12 group text-xl mt-4 border-b inline-block duration-300 text-white border-zinc-600 hover:border-white'
                         >
                             Download CV
